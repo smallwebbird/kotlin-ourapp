@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ourapp</string>
+    <string name="title_activity_plan_add">PlanAdd</string>
+</resources>

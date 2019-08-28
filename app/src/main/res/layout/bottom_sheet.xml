@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+            android:id="@+id/from_camera"
+            android:text="拍照"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:background="@drawable/textview_border"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+    <TextView
+            android:id="@+id/from_album"
+            android:text="从相册选择"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"/>
+</LinearLayout>
